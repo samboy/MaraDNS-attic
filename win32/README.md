@@ -1,3 +1,4 @@
-This is the Windows binary for version 3.5.0004 of MaraDNS, the final
-version of MaraDNS with a Windows binary.  Like all other files, this
-is not supported.
+Between MaraDNS 3.5.0005 and 3.5.0027, there was not a `maradns.exe` 
+included with MaraDNS, because the file had Y2038 issues.  I resolved
+the issues in MaraDNS 3.5.0028, so `maradns.exe` is available and
+supported again.
